@@ -1,0 +1,5 @@
+# autoaudit extension
+comment = 'AutoAudit extension for PostgreSQL'
+default_version = '1.0'
+module_pathname = '$libdir/autoaudit'
+relocatable = false
